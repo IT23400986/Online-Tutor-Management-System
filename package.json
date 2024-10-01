@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gradle": "^1.2.4",
+    "maven": "^5.0.0"
+  }
+}
