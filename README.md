@@ -23,23 +23,15 @@ The **Online Tutor Management System** is a web-based platform designed to conne
 - **Backend**: 
   - [Spring Boot](https://spring.io/projects/spring-boot)
   - [Spring Data JPA](https://spring.io/projects/spring-data-jpa) (Hibernate)
-  - [Spring Security](https://spring.io/projects/spring-security) (Optional)
+  - [Spring Security](https://spring.io/projects/spring-security)
 - **Database**: 
   - [MySQL](https://www.mysql.com/)
 - **Frontend**: 
-  - TBD (React, Angular, or other frameworks)
+  - HTML, CSS, JS, Thymeleaf
 - **Version Control**: 
   - [GitHub](https://github.com/)
 - **Build Tool**: 
   - [Maven](https://maven.apache.org/)
-- **Containerization**: 
-  - [Docker](https://www.docker.com/) (Optional)
-
-## Prerequisites
-- **Java** (version 17 or later)
-- **Maven** (for building the project)
-- **MySQL** (for database)
-- **Git** (for version control)
 
 ## Getting Started
 
