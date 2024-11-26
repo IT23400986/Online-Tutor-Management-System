@@ -24,6 +24,9 @@ The **Online Tutor Management System** is a web-based platform designed to conne
   - [Spring Boot](https://spring.io/projects/spring-boot)
   - [Spring Data JPA](https://spring.io/projects/spring-data-jpa) (Hibernate)
   - [Spring Security](https://spring.io/projects/spring-security)
+  - [Spring Web]
+  - [Thymeleaf]
+  - [Lombok]
 - **Database**: 
   - [MySQL](https://www.mysql.com/)
 - **Frontend**: 
